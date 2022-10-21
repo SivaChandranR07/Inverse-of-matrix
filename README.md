@@ -1,6 +1,6 @@
 # Inverse-of-matrix
 
-## AIM:
+## Aim:
 To write a python program to find the inverse of a nested array.
 
 ## ALGORITHM:
@@ -17,6 +17,9 @@ Print the inverse of the array using np.lingalg.inv .
 
 ## PROGRAM:
 ```python
+#Program to find the inverse of nested array.
+#Developed by: Siva Chandran R
+#RegisterNumber: 22005531
 import numpy as np
 row,col=int(input()),int(input())
 l1,l2=[],[]
